@@ -1,0 +1,3 @@
+[submodule "GoogleScript"]
+	path = GoogleScript
+	url = https://github.com/shrtkv/GoogleScript
